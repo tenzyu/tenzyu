@@ -10,33 +10,20 @@ _I'm a technical high schooler, and my name is Tenzyu as 天珠_
 
 Recently contributing to [mii-group](https://github.com/mii-group) and [ken-match](https://github.com/ken-match)
 
-<div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>
-          <strong>🌱 Learning</strong>
-        </th>
-        <th>
-          <strong>💻 Stats</strong>
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <div>
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" />
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-          </div>
-        </td>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=tenzyu&show_icons=true" alt="Stats" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<table border="0" cellspacing="0" cellpadding="0">
+  <thead><tr><th>🌱 Learning</th></tr></thead>
+  <tbody><tr><td>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+  </td></tr></tbody>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <thead><tr><th>💻 Stats</th></tr></thead>
+  <tbody><tr><td>
+    <img src="https://github-readme-stats.vercel.app/api?username=tenzyu&show_icons=true" alt="Stats" />
+  </td></tr></tbody>
+</table>
