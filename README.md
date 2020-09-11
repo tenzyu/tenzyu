@@ -11,7 +11,7 @@ _I'm a technical high schooler, and my name is Tenzyu as 天珠_
 Recently contributing to [mii-group](https://github.com/mii-group) and [ken-match](https://github.com/ken-match)
 
 <table border="0" cellspacing="0" cellpadding="0">
-  <thead><tr><th>🌱 Learning</th></tr></thead>
+  <thead><tr><th align="left">🌱 Learning</th></tr></thead>
   <tbody><tr><td>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" />
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
@@ -22,7 +22,7 @@ Recently contributing to [mii-group](https://github.com/mii-group) and [ken-matc
 </table>
 
 <table border="0" cellspacing="0" cellpadding="0">
-  <thead><tr><th>💻 Stats</th></tr></thead>
+  <thead><tr><th align="left">💻 Stats</th></tr></thead>
   <tbody><tr><td>
     <img src="https://github-readme-stats.vercel.app/api?username=tenzyu&show_icons=true" alt="Stats" />
   </td></tr></tbody>
