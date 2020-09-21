@@ -10,15 +10,10 @@ I'm Tenzyu (as 天珠), a technical high schooler but a self-taught coder from J
 
 <br />
 
-<p>
-  <img width="175px" alt="me" align="left" src="https://cdn.discordapp.com/attachments/752286472383758416/757471800203673700/me.png" />
-</p>
-
-> **Find me**
+<img width="128px" alt="me" align="left" src="https://cdn.discordapp.com/attachments/752286472383758416/757471800203673700/me.png" />
 <p>
   <img src="https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=8DA3F2&label=&labelColor=505050&color=505050&message=tenzyu%238219" alt="my-discord" />
   <a href="https://twitter.com/masudatenzyu"><img src="https://img.shields.io/static/v1?style=flat&logo=twitter&label=&labelColor=505050&color=505050&message=twitter" alt="my-twitter" /></a>
   <a href="https://tenzyu.com/"><img src="https://img.shields.io/static/v1?style=flat&logo=netlify&label=&labelColor=505050&color=505050&message=website" alt="my-website" /></a>
 </p>
-
-<img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenzyu&layout=compact&theme=graywhite" />
+<img height="128.5px" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenzyu&layout=compact&theme=graywhite" />
