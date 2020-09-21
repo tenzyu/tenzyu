@@ -1,29 +1,19 @@
-<img src="https://komarev.com/ghpvc/?username=tenzyu" alt="Profile views" />
+## Hi there 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/masudatenzyu?style=social)](https://twitter.com/masudatenzyu/)
-[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=lightgrey&up_message=tenzyu.com&url=https%3A%2F%2Ftenzyu.com%2F)](https://tenzyu.com)
-[![Discord](https://img.shields.io/discord/608634154019586059?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/8DrwSxd)
+I'm Tenzyu (as 天珠), a technical high schooler but a self-taught coder from Japan.
 
-### Hello 👋
+🌱 I'm currently learning frontEnd, backEnd and English
 
-_I'm a technical high schooler, and my name is Tenzyu as 天珠_
+💬 Ask me about anything [here](https://github.com/tenzyu/tenzyu/issues)
 
-Recently contributing to [mii-group](https://github.com/mii-group) and [ken-match](https://github.com/ken-match)
+<!-- Recently contributed to [mii-gruop](https://github.com/mii-group) and [ken-match](https://github.com/ken-match) -->
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <thead><tr><th align="left">🌱 Learning</th></tr></thead>
-  <tbody><tr><td>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  </td></tr></tbody>
-</table>
+<br />
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <thead><tr><th align="left">💻 Stats</th></tr></thead>
-  <tbody><tr><td>
-    <img src="https://github-readme-stats.vercel.app/api?username=tenzyu&show_icons=true" alt="Stats" />
-  </td></tr></tbody>
-</table>
+<img width="128px" alt="me" align="left" src="https://cdn.discordapp.com/attachments/752286472383758416/757471800203673700/me.png" />
+<div>
+  <img src="https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=8DA3F2&label=&labelColor=505050&color=505050&message=tenzyu%238219" alt="my-discord" />
+  <a href="https://twitter.com/masudatenzyu"><img src="https://img.shields.io/static/v1?style=flat&logo=twitter&label=&labelColor=505050&color=505050&message=twitter" alt="my-twitter" /></a>
+  <a href="https://tenzyu.com/"><img src="https://img.shields.io/static/v1?style=flat&logo=netlify&label=&labelColor=505050&color=505050&message=website" alt="my-website" /></a>
+</div>
+<img height="128.5px" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenzyu&layout=compact&theme=graywhite" />
