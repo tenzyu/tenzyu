@@ -11,7 +11,7 @@ I'm Tenzyu (as 天珠), a technical high schooler but a self-taught coder from J
 <br />
 
 <p>
-  <img width="180px" alt="me" align="left" src="https://cdn.discordapp.com/attachments/752286472383758416/757432085056192643/image0.jpg" />
+  <img width="180px" alt="me" src="https://cdn.discordapp.com/attachments/752286472383758416/757432085056192643/image0.jpg" style="float:left;border-radius:6px;margin-right:1rem"/>
 </p>
 
 > **Find me**
