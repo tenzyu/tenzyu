@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<hr>
-
 I'm Tenzyu (as 天珠), a technical high schooler but a self-taught coder from Japan.
 
 🌱 I'm currently learning frontEnd, backEnd and English.
