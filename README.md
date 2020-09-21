@@ -6,7 +6,7 @@ I'm Tenzyu (as 天珠), a technical high schooler but a self-taught coder from J
 
 💬 Ask me about anything [here](https://github.com/tenzyu/tenzyu/issues).
 
-<hr>
+> **Others**
 
 <div>
   <img alt="me" width="200px" align="left" src="https://cdn.discordapp.com/attachments/752286472383758416/757471800203673700/me.png" />
