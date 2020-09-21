@@ -9,7 +9,7 @@ I'm Tenzyu (as 天珠), a technical high schooler but a self-taught coder from J
 <!-- Recently contributed to [mii-gruop](https://github.com/mii-group) and [ken-match](https://github.com/ken-match) -->
 
 <p>
-  <img width="170px" alt="me" align="left" src="https://cdn.discordapp.com/attachments/752286472383758416/757432085056192643/image0.jpg" />
+  <img width="175px" alt="me" align="left" src="https://cdn.discordapp.com/attachments/752286472383758416/757432085056192643/image0.jpg" />
 </p>
 
 > **Find me**
