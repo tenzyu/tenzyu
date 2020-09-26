@@ -19,7 +19,6 @@ I'm Tenzyu (as 天珠), a technical high schooler but a self-taught coder from J
 </div>
 
 <div>
-  <a href="https://tenzyu.com/"><img alt="my-website" src="https://img.shields.io/static/v1?style=flat&logo=netlify&label=&labelColor=505050&color=505050&message=tenzyu.com" /></a>
-  <a href="https://twitter.com/masudatenzyu"><img alt="my-twitter" src="https://img.shields.io/static/v1?style=flat&logo=twitter&label=&labelColor=505050&color=505050&message=masudatenzyu" /></a>
-  <img alt="my-discord:tenzyu#8219" src="https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=8DA3F2&label=&labelColor=505050&color=505050&message=tenzyu%239999" /></a>
+  <a href="https://tenzyu.com/"><img alt="my-website:tenzyu.com" src="https://img.shields.io/static/v1?style=flat&logo=netlify&label=&labelColor=505050&color=505050&message=tenzyu.com" /></a>  <a href="https://twitter.com/tenzyumasuda"><img alt="my-twitter:tenzyumasuda" src="https://img.shields.io/static/v1?style=flat&logo=twitter&label=&labelColor=505050&color=505050&message=tenzyumasuda" /></a>
+  <img alt="my-discord:tenzyu#9999" src="https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=8DA3F2&label=&labelColor=505050&color=505050&message=tenzyu%239999" /></a>
 </div>
