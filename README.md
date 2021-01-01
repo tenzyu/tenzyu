@@ -4,7 +4,7 @@ I'm Tenzyu (as 天珠), a technical high schooler but a self-taught coder from J
 
 🌱 I'm currently learning Front-end, Back-end and English.
 
-💬 Ask me about anything [here](https://github.com/tenzyu/tenzyu/issues).
+💬 Ask me about anything [here](https://github.com/tenzyu/tenzyu/discussions).
 
 <br>
 
