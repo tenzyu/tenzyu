@@ -4,6 +4,8 @@ _I'm a technical high schooler but a self-taught coder from Japan._
 
 If you wanna know more about me, please visit [tenzyu.com](https://tenzyu.com)
 
+<br />
+
 ## Now  I'm contributing to
 
 - <https://github.com/HiraginoYuki/fifteen-puzzle>
