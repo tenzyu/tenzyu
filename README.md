@@ -8,7 +8,7 @@ If you wanna contact or know more about me, please visit [tenzyu.com](https://te
 
 ## Now  I'm contributing to
 
-- [@mii-group](https://github.com/mii-group)
+- [@mii-community](https://github.com/mii-community)
 - [@ken-match](https://github.com/ken-match)
 - [HiraginoYuki/fifteen-puzzle](https://github.com/HiraginoYuki/fifteen-puzzle)
 - [kazukazu123123/KazuStream](https://github.com/kazukazu123123/KazuStream) (Private)
