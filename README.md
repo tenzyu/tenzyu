@@ -6,6 +6,8 @@
 
 [Mii Community Website](https://mii.community/)
 
+[Mii Community Discord](https://invite.mii.community)
+
 ## Picture
 
 <div>
