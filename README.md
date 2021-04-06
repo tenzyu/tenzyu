@@ -1,5 +1,7 @@
 # Hi there 👋
 
+河原電子ビジネス専門学校
+
 ## Links
 
 [DevSpace (Discord)](https://discord.gg/4nSKCE9RRn)
