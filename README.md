@@ -4,9 +4,7 @@
 
 ## Links
 
-[DevSpace (Discord)](https://discord.gg/4nSKCE9RRn)
-
-[Mii Community Website](https://mii.community/)
+[Mii Community](https://mii.community/)
 
 ## Picture
 
